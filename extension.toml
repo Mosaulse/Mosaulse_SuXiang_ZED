@@ -1,0 +1,6 @@
+id = "suxiang-zed"
+name = "素缃"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mosaulse"]
+description = "适配 Zed 的素缃主题"
